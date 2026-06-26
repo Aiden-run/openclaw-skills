@@ -1,6 +1,8 @@
 # OpenClaw Skills
 
-派大星的 OpenClaw 助手技能库。
+由 Vibe Coding 全流程生成 ❤️
+
+欢迎使用！经常使用会自动修复和优化。
 
 ## 目录结构
 
